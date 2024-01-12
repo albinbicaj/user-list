@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is now live on this link [https://user-list3-l13ahlund-albinbicajs-projects.vercel.app/](https://user-list3-l13ahlund-albinbicajs-projects.vercel.app/).
+This project is now live on this link [https://user-list3.vercel.app/](https://user-list3.vercel.app/).
 
 ## Available Scripts
 
