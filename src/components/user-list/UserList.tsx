@@ -46,6 +46,7 @@ const UserList = () => {
 
   const handleSearch = (query: string) => {
     setSearch(query);
+    setSkip(0);
   };
 
   const handleOnPageChange = (page: number) => {
