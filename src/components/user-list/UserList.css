@@ -6,6 +6,18 @@
   min-height: 93vh;
 }
 
+@media (max-width: 670px) {
+  .user-list-container {
+    background-color: #fff;
+    padding: unset;
+  }
+  .user-table {
+    width: 100%;
+    background-color: unset !important;
+    overflow-x: auto;
+  }
+}
+
 .search-bar-container {
   display: flex;
   align-items: center;
